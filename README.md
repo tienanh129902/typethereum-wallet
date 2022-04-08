@@ -76,7 +76,7 @@ And open [http://localhost:4000/graphql](http://localhost:4000/graphql) in any b
 
 Now, you can interact with the Hardhat node by sending query or mutation appeared on the tab Documentation.
 
-#III. Problems and issues
+# III. Problems and issues
 
 This project still has problem when deploying tokens:
 Deploying tokens will restart the server and then the deployment process will stop.
