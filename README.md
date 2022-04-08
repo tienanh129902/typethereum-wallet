@@ -1,4 +1,4 @@
-#I. Typethereum-wallet Project
+# I. Typethereum-wallet Project
 ## 1. Overview
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
@@ -49,7 +49,7 @@ npx hardhat verify --network ropsten DEPLOYED_CONTRACT_ADDRESS "Hello, Hardhat!"
 For faster runs of your tests and scripts, consider skipping ts-node's type checking by setting the environment variable `TS_NODE_TRANSPILE_ONLY` to `1` in hardhat's environment. For more details see [the documentation](https://hardhat.org/guides/typescript.html#performance-optimizations).
 
 
-#II. Back-end API
+# II. Back-end API
 
 ## 1. Technologies used 
 - MongoDB
